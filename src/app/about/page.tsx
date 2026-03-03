@@ -2,86 +2,54 @@ export default function AboutPage() {
   return (
     <>
       <h1 className="mb-16 mt-4 text-center text-5xl max-sm:text-4xl">
-        About me
+        Sobre
       </h1>
       <article>
         <p>
-          I was born in São Paulo and moved to{" "}
-          <a href="https://en.wikipedia.org/wiki/Florian%C3%B3polis">
-            Florianópolis
-          </a>{" "}
-          as a 10 year old kid. I fell in love with the nature, sport and music
-          culture of the Magical Island.
+          Nasci e cresci em uma cidade do interior do Paraná chamada {" "}
+          <a href="https://pt.wikipedia.org/wiki/Pato_Branco">
+            Pato Branco
+          </a>. Aprendi a tocar violão, entrei para um time de futsal, participei
+          de um grupo de danças nativas regionais por quase 10 anos e zerei alguns
+          jogos no computador de tubo que meu pai trouxe para casa quando eu tinha 7 anos.
         </p>
         <p>
-          In the next decade, I{" "}
-          <a href="https://open.spotify.com/artist/4ymHKBTThfeOL114lwCWPQ?si=c30897c35e404259">
-            became a singer-songwriter
-          </a>
-          , got a Karate blue belt, won two Carnaval trophies and reached Diamond IV in League of Legends.
+          No Ensino Médio iniciei um curso técnico em Informática que me fez
+          conhecer o universo da programação. Um ano e meio de exercícios de
+          lógica e desenvolvimento de algoritmos com Pascal me fizeram nunca mais
+          querer pensar em programação.
         </p>
         <p>
-          Then I studied Economics at{" "}
-          <a href="https://en.wikipedia.org/wiki/Federal_University_of_Santa_Catarina">
-            Federal University of Santa Catarina
-          </a>
-          , mostly for my love for History and Math. I learned a lot of
-          Politics, Statistics and Macroeconomics.
+          Depois disso, estudei Engenharia Civil no{" "} 
+          <a href="https://pt.wikipedia.org/wiki/Afya_Centro_Universit%C3%A1rio_Pato_Branco">
+            Centro Universitário de Pato Branco
+          </a> onde aprendi muito sobre cálculos, mecânica e física,
+          mas, mesmo sendo em uma área em que gostava muito e descobrindo coisas novas
+          à cada momento, o mercado de trabalho difícil me levou a desistir após dois anos.
         </p>
         <p>
-          But I&apos;d spent too long studying models that weren&apos;t
-          applicable in real-life. I felt disconnected from my studies which led
-          to me dropping out after 2 years.
+          Nesse mesmo período caí de paraquedas em um vídeo sobre HTML no Youtube
+          e me apaixonei pelo Frontend. Me inscrevi em um curso na Rocketseat e
+          também iniciei o bacharelado em Engenharia de Software. Rapidamente
+          passei pelos conceitos básicos do Frontend e posteriormente mergulhei
+          nos frameworks como Angular e React.
         </p>
         <p>
-          Then came my first contact with programming: as a Data Analyst at a
-          Tech startup. We used Microsoft Excel and Power BI to generate our
-          reports.
+          Atualmente trabalho remotamente desenvolvendo aplicações voltadas ao
+          setor de e-commerce aqui no Brasil e no exterior.
         </p>
         <p>
-          With millions of data entries, it wasn&apos;t long until my Dell
-          notebook became unusably slow. This led me to learn Python and Pandas
-          to better deal with datasets, as well as Selenium and pyautogui.
+          Seja para dizer um oi ou falar sobre qualquer assunto, você pode
+          me encontrar pelas mensagens diretas no <a href="https://x.com/omgitsxulia">X</a> ou pelo email {" "}
+          <a href="mailto:juliabresolincontato@gmail.com">juliabresolincontato@gmail.com</a>.
         </p>
+
+        <p>Acredite em você mesmo :)</p>
+
         <p>
-          I&apos;ve always been obsessed with user interfaces. My friends
-          couldn&apos;t bear me pointing out broken buttons and ugly websites
-          all the time.
-        </p>
-        <p>
-          When I found out what HTML was, I did a deep dive into the Frontend. I
-          completed FreeCodeCamp&apos;s{" "}
-          <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">
-            Responsive Web Design
-          </a>{" "}
-          and swiftly progressed to Javascript and React soon after.
-        </p>
-        <p>
-          I became more active within the Brazilian Dev community, sharing
-          quirky UI bugs and building my projects in public such as{" "}
-          <a href="https://phived.com">phived</a> and{" "}
-          <a href="https://css2wind.com">css2wind</a>. I collaborated with
-          hundreds of developers and contributed a lot to Open Source.
-        </p>
-        <p>
-          In 2024, I traveled to Torino, Italy to visit my dad. My life flipped
-          upside down and I ended up living in Málaga for a while. After I{" "}
-          <a href="/articles/how-not-to-get-a-job-in-spain">
-            failed to get a job
-          </a>
-          , I moved to the UK and landed a job in London, where I currently
-          live.
-        </p>
-        <p>
-          Send me a DM on{" "}
-          <a href="https://x.com/lukeberrypi">X</a> or an email{" "}
-          <a href="mailto:lukeberrypi@gmail.com">lukeberrypi@gmail.com</a>.
-        </p>
-        <p>Smile, you&apos;re alive :)</p>
-        <p>
-          Best,
+          Com carinho,
           <br />
-          Luke
+          Ju.
         </p>
       </article>
     </>

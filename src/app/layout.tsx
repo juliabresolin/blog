@@ -76,14 +76,14 @@ export default function RootLayout({
             </Link>
             <a
               className="decoration-zinc-500 underline-offset-4 transition-transform sm:hover:underline dark:decoration-zinc-400"
-              href="https://x.com/LukeberryPi"
+              href="https://x.com/omgitsxulia"
               target="_blank"
             >
-              @LukeberryPi
+              @omgitsxulia
             </a>
           </div>
           <blockquote className="text-zinc-800 dark:text-zinc-300">
-            Smile, you&apos;re alive :)
+            Acredite em si mesmo :)
           </blockquote>
         </footer>
       </body>
