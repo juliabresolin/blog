@@ -8,8 +8,8 @@ import dynamic from "next/dynamic";
 // import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
-  title: "Luke Berry",
-  description: "Luke Berry's personal website",
+  title: "Julia Bresolin | Software Developer",
+  description: "Blog pessoal da Julia :)",
 };
 
 const karla = Karla({
